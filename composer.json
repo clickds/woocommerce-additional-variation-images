@@ -1,0 +1,16 @@
+{
+  "name": "glenelkins84/woocommerce-additional-variation-images",
+  "description": "Paid plugin to perform extra actions on variation images",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/glenelkins84/woocommerce-additional-variation-images.git",
+  "authors": [
+    {
+      "name": "WooCommerce",
+      "homepage": "https://woocommerce.com/"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
