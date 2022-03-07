@@ -1,11 +1,11 @@
 {
-  "name": "glenelkins84/woocommerce-additional-variation-images",
+  "name": "clickds/woocommerce-additional-variation-images",
   "description": "Paid plugin to perform extra actions on variation images",
   "keywords": [
     "wordpress",
     "plugin"
   ],
-  "homepage": "https://github.com/glenelkins84/woocommerce-additional-variation-images.git",
+  "homepage": "https://github.com/clickds/woocommerce-additional-variation-images.git",
   "authors": [
     {
       "name": "WooCommerce",
